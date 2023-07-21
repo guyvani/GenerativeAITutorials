@@ -1,1 +1,8 @@
+<<<<<<< HEAD
+openai
+=======
+>>>>>>> 4174136287a5c04b1b7b5af690862701f08319a9
 langchain
+pinecone-client
+python-dotenv
+tiktoken
