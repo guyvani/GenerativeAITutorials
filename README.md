@@ -1,7 +1,5 @@
 # A 8-month syllabus to get up to Speed on NLP and LLMs. From Zero to Hero
 
-**8-Month Syllabus for Transitioning to ML Research in NLP and LLMs**
-
 **Month 1-2: Deep Dive into Deep Learning Fundamentals**
 1. **Deep Learning Specialization by Andrew Ng (Coursera)**
     - Topics: Deep Neural Networks, CNNs, Sequence models, etc.
